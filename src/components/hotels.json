@@ -1,0 +1,290 @@
+[
+    {
+        "id": 1,
+        "img": "https://lh3.googleusercontent.com/gps-proxy/AFm_dcSlaKQehMcViPJJd0AfoJ-2m6R_RjT9xJ7CTtwLgbIIKnNSH_5MzHimQC-T1l-fidgXIBpASqfRQ37SlJhnnJVNtMtJ-c84EVIQePGPgm3Q6XjARbyg6jYuR0Akin80w1Z4G7wPuYxc8oqzWDluhxmAhPqw8h-8FUOgAmuGc-TqJId4kO205rHl=w287-h192-n-k-no-v1-rj",
+        "address": "At Grand Central Terminal, 109 E 42nd St",
+        "name": "Hyatt Grand Central New York",
+        "location": "New York",
+        "rent": "22,957"
+    },
+    {
+        "id": 2,
+        "img": "https://lh3.googleusercontent.com/p/AF1QipMoObtbUqwYWB_LKBuzY6Iuv-63chjTTO9s6So=w287-h192-n-k-no-v1-rj",
+        "address": "145 W 47th St",
+        "name": "Hotel Riu Plaza Manhattan Times Square",
+        "location": "New York",
+        "rent": "29,710"
+    },
+    {
+        "id": 3,
+        "address": "790 7th Ave,",
+        "img": "https://lh3.googleusercontent.com/p/AF1QipMBxFOBmCWodZpvkYd0k8FvRs2QoEmfoU8nYJ8n=w287-h192-n-k-no-v1-rj",
+        "name": "The Manhattan at Times Square Hotel",
+        "location": "New York",
+        "rent": "15,607"
+    },
+    {
+        "id": 4,
+        "address": "111 E 48th St",
+        "img": "https://lh3.googleusercontent.com/p/AF1QipNce1FNAPed2rP29K4jNuc0Cpi0_QyTPMS1--_N=w287-h192-n-k-no-v1-rj",
+        "name": "InterContinental New York Barclay, an IHG Hotel",
+        "location": "New York",
+        "rent": "40,247"
+    },
+    {
+        "id": 5,
+        "name": "Queens Hotel",
+        "img": "https://lh3.googleusercontent.com/p/AF1QipNzMW6BkFhpNNKzZtoPi2tcBeQFF1VvXo1Pu-_I=w287-h192-n-k-no-v1-rj",
+        "address": "65-15 Queens Blvd, Queens",
+        "location": "New York",
+        "rent": "13,337"
+    },
+    {
+        "id": 6,
+        "address": "30 Minue St, Carteret",
+        "img": "https://lh3.googleusercontent.com/gps-proxy/AFm_dcRAgpudFLF8DfD16a7toDV94SsibITcb1Mhd9vWIc5wnYvz-06ZCPBihQd4QMuxHlWejhP5n7xkESsoqhOjtPP_OC7wbhiQ45__ZeNSx0jt_VAdG8N1Pfl8fWv8RhH4tYMgQtOve96ciip1icSO_405gmD6d1udPg3_2eWqtSRbGwHFBguF0wxwWDgod3NEYPbIbQ=w287-h192-n-k-no-v1-rj",
+        "name": "Hotel Executive Suites",
+        "location": "New York",
+        "rent": "9,907"
+    },
+    {
+        "id": 7,
+        "address": "1000 Roosevelt Ave, Carteret",
+        "img": "https://lh3.googleusercontent.com/p/AF1QipNmsCDYrpd-ci65_HaHZYo9XxCRGGy60MSkUKHY=w287-h192-n-k-no-v1-rj",
+        "name": "Red Roof PLUS+ Newark Liberty Airport - Carteret",
+        "location": "New York",
+        "rent": "9,257"
+    },
+    {
+        "id": 8,
+        "address": "1263 Edward L Grant Hwy, Bronx,",
+        "img": "https://lh3.googleusercontent.com/gps-proxy/AFm_dcQ6W-Inl3cHjCaC8zZ0JRef1ZFYpcmNbg4e5VMQHsIAxzQ9KrobuJhO4do-iBxgaIOV8--UJWqGyQ14utpJNgXuCfWaXqLXdoy7NC_NU245Jm7fG9IePbSmLgAjOQDSKUb6djB-1EXzNPABpEdj7OaXp0RZ0fnOQzh1DlEMWIHD4VjBUjV5H-Pz=w287-h192-n-k-no-v1-rj",
+        "name": "Highbridge Hotel",
+        "location": "New York",
+        "rent": "15,333"
+    },
+    {
+        "id": 9,
+        "address": "400 5th Ave",
+        "img": "https://lh3.googleusercontent.com/p/AF1QipNQBpArH8LbbFkIQLB3tf3QD7Bms3M8uApdHvF-=w287-h192-n-k-no-v1-rj",
+        "name": "The Langham, New York, Fifth Avenue",
+        "location": "New York",
+        "rent": "93,057"
+    },
+    {
+        "id": 10,
+        "address": "Juhu Beach, Juhu Tara Rd",
+        "img": "https://lh3.googleusercontent.com/p/AF1QipPc2SFDRnHm-iWEPrZ8wHRDH3zdDXhEjKzLo9nO=w287-h192-n-k-no-v1-rj",
+        "name": "Ramada Plaza by Wyndham Palm Grove",
+        "location": "Mumbai",
+        "rent": "5,654"
+    },
+    {
+        "id": 11,
+        "address": "Cts No 17, Lal Bhahdur",
+        "img": "https://lh3.googleusercontent.com/gps-proxy/AFm_dcTS8K59n0vd-bBHQPqAFkcNZrndiswWzEmF861ek2Svk4P45X61pZX55dceopQ8Ey_7g-GyvMwO9OXcDiuXV0F8iDlN1HXL0OVdgn3fRjSCkikTxLULbzlKbYo3Wg1gKtm8VmJZTtUrZXiiQcm-JE0Z4LYUeCD9XhyqMQXkn1uW4jAlpoxiHK4B=w287-h192-n-k-no-v1-rj",
+        "name": "ibis Mumbai Vikhroli",
+        "location": "Mumbai",
+        "rent": "7,279"
+    },
+    {
+        "id": 12,
+        "address": "Metro Station, Marol Maroshi Rd",
+        "img": "https://lh3.googleusercontent.com/p/AF1QipOrS68qmoagr4-xtyFOuplnNA4FHWR2Jksg02cP=w287-h192-n-k-no-v1-rj",
+        "name": "Radisson Blu Mumbai International Airport",
+        "location": "Mumbai",
+        "rent": "1,092"
+    },
+    {
+        "id": 13,
+        "address": "11, 24-4, CST Road, Rupa Nagar, Kurla West",
+        "img": "https://lh3.googleusercontent.com/p/AF1QipNuHR8sdvaXPAOnYZE1UmWjlhTMiAgdW14jhy17=w287-h192-n-k-no-v1-rj",
+        "name": "Hotel Bkc Palace Inn",
+        "location": "Mumbai",
+        "rent": "2,173"
+    },
+    {
+        "id": 14,
+        "address": "Thane, Mira Bhayandar",
+        "img": "https://lh3.googleusercontent.com/proxy/iZIXz8hMmBH7yga99i7NSHxK8VMm8ujS3B0tR0jpVSW5q5BTDemYT6uY6XGIFLzkJidpduGJ0SPrtLJJ1MQFq9ctJ_Xcqc0Q3iPVjX_t8OOXuZ33za9p_LfJoRrp1NCh1tYdCFYp2Vvaeo18iZjEkDfRVw9gyg=w287-h192-n-k-no-v1-rj",
+        "name": "Gagal Home Airport Suites | Rooms & Caretaker",
+        "location": "Mumbai",
+        "rent": "3,293"
+    },
+    {
+        "id": 15,
+        "address": "Ramdev Park Rd, Shivar Garden",
+        "img": "https://lh3.googleusercontent.com/p/AF1QipMIVB-NcLiADM9d1Ly-idFjwD_v6NdCH_EWCR5s=w287-h192-n-k-no-v1-rj",
+        "name": "Hotel voxton",
+        "location": "Mumbai",
+        "rent": "1,7199"
+    },
+    {
+        "id": 16,
+        "address": "1st floor Above Madni Hotel, Air India",
+        "img": "https://lh3.googleusercontent.com/p/AF1QipMGn5oaNkTim3DSTV2g29_FJ7WCxbkWFwQGxyyC=w287-h192-n-k-no-v1-rj",
+        "name": "Hotel Janata Residency",
+        "location": "Mumbai",
+        "rent": "1,453"
+    },
+    {
+        "id": 17,
+        "address": "Arma Residency, Opposite Crescent ",
+        "img": "https://lh3.googleusercontent.com/p/AF1QipN1WpPGJFlh0kRIIdn1bulrvE6-GSBEuwYl5gKc=w287-h192-n-k-no-v1-rj",
+        "name": "Qubestay Airport Capsule Hotel And Hostel",
+        "location": "Mumbai",
+        "rent": "1,399"
+    },
+    {
+        "id": 18,
+        "address": "Gala no.4, near Maharaja Hotel",
+        "img": "https://lh3.googleusercontent.com/p/AF1QipNMD8V9OadsQ8fePF_WEwgCc-R6zyiV7WHa_3XQ=w287-h192-n-k-no-v1-rj",
+        "name": "Airport inn residency",
+        "location": "Mumbai",
+        "rent": "1,109"
+    },
+    {
+        "id": 19,
+        "address": "2 Rue Scribe, 75009",
+        "img": "https://lh3.googleusercontent.com/p/AF1QipPI6gk7bI4W3ADCQEl6dAyQ1om1JS-jfRmycpTB=w287-h192-n-k-no-v1-rj",
+        "name": "InterContinental Paris - Le Grand, an IHG Hotel",
+        "location": "Paris",
+        "rent": "60,048"
+    },
+    {
+        "id": 20,
+        "address": "2 Pl. des Pyramides, 75001",
+        "img": "https://lh3.googleusercontent.com/gps-proxy/AFm_dcQkanbF3CPTUEhXwheKmHwWoebgygeq7D25zrVzu0afr_kh9t1Kcefjp_Em1nDOEARCVBSarI_oddlUHC_2LeyymRXrCVFwjraLL_yFQcUuNcY-CvUQzNibkAhl_cot69Xxfz3EVKJfZ3VDDMWBiAEM8gtdRVZg8qISpTYbSRFLypJs3f5Fi7bxeA=w287-h192-n-k-no-v1-rj",
+        "name": "Hotel Regina Louvre",
+        "location": "Paris",
+        "rent": "55,768"
+    },
+    {
+        "id": 21,
+        "address": "9-11 Pl. du Colonel Fabien",
+        "img": "https://lh3.googleusercontent.com/p/AF1QipPGqxTkoWJqQT3eZRgwvjzHCR4XiJ2_pWceJrxX=w287-h192-n-k-no-v1-rj",
+        "name": "Generator Paris",
+        "location": "Paris",
+        "rent": "9,084"
+    },
+    {
+        "id": 22,
+        "address": "42 Rue de Moscou, 75008",
+        "img": "https://lh3.googleusercontent.com/p/AF1QipNRENxUo2TCabDdqOkCeJEcdINPCHnAKR1KvMQo=w287-h192-n-k-no-v1-rj",
+        "name": "Hôtel Astoria - Astotel",
+        "location": "Paris",
+        "rent": "11,893"
+    },
+    {
+        "id": 23,
+        "address": "17 Bd Morland, 75004",
+        "img": "https://lh3.googleusercontent.com/p/AF1QipMtKJokpxJdmFYplS9D68Jlhj-J_0QITlwBtaVO=w287-h192-n-k-no-v1-rj",
+        "name": "The People Paris Marais",
+        "location": "Paris",
+        "rent": "11,704"
+    },
+    {
+        "id": 24,
+        "address": "13 Rue François Mitterrand",
+        "img": "https://lh3.googleusercontent.com/p/AF1QipOFdcAxiQl_JABvrILp6QrsLJkCXLPGGj6M3cL8=w287-h192-n-k-no-v1-rj",
+        "name": "B&B HOTEL Paris Ivry Quai de Seine",
+        "location": "Paris",
+        "rent": "10,078"
+    },
+    {
+        "id": 25,
+        "address": "32 Av. de la Prte de Montmartre, 75018",
+        "img": "https://lh3.googleusercontent.com/p/AF1QipMHw3Y6-lVN7bZ0_KQ86bt6EuJylObEg6fA0knl=w287-h192-n-k-no-v1-rj",
+        "name": "The Originals Boutique, Hôtel Maison Montmartre",
+        "location": "Paris",
+        "rent": "12,941"
+    },
+    {
+        "id": 26,
+        "address": "19 Rue du Gros Caillou, 75007 ",
+        "img": "https://lh3.googleusercontent.com/p/AF1QipPKlPaqirai09qGeJtO-dzZWe1zEjw8WqWnxBsq=w287-h192-n-k-no-v1-rj",
+        "name": "Hôtel de la Paix Tour Eiffel",
+        "location": "Paris",
+        "rent": "17,447"
+    },
+    {
+        "id": 27,
+        "address": "17 Rue Savier, 92240 Malakoff",
+        "img": "https://lh3.googleusercontent.com/p/AF1QipPq0J7I5NRyuYm8d-6_f_GVebPKKH0ToaKd7pYm=w287-h192-n-k-no-v1-rj",
+        "name": "Hôtel Le Petit Chateau",
+        "location": "Paris",
+        "rent": "5,833"
+    },
+    {
+        "id": 28,
+        "address": "International Hotel, 163 Marsh Wall",
+        "img": "https://lh3.googleusercontent.com/p/AF1QipMepWgTww7L7umDjCzqwdwuhmF-XsioQenn-N5p=w287-h192-n-k-no-v1-rj",
+        "name": "Britannia International Hotel",
+        "location": "London",
+        "rent": "5,567"
+    },
+    {
+        "id": 29,
+        "address": "1 King's Cross Rd, London WC1X 9HX",
+        "img": "https://lh3.googleusercontent.com/p/AF1QipN4bDwf67nLU2Ip9FvPnXJTZsPsK9k_ZRc2_HBY=w287-h192-n-k-no-v1-rj",
+        "name": "Crowne Plaza London - Kings Cross, an IHG Hotel",
+        "location": "London",
+        "rent": "19,299"
+    },
+    {
+        "id": 30,
+        "address": "International Hotel, 163 Marsh Wall",
+        "img": "https://lh3.googleusercontent.com/gps-proxy/AFm_dcR_CvgYWgOrv0OoWfI0gGspHQz_b-URV-PyXqN4hbLoZQygWMDAZfU4GYWaNfQDyMAN1rhLuLwaR3hTdZKCgR-AxwqZlcN77rSZ1eHQxHQKtO9qZ0EYY7JkgTjKnlLhbdq_x84SDghaQ5LbG-QCLeKbdnRvgJOebBwfvCPlOfZ4mxDknsnWKiqG=w287-h192-n-k-no-v1-rj",
+        "name": "Britannia International Hotel",
+        "location": "London",
+        "rent": "5,567"
+    },
+    {
+        "id": 31,
+        "address": "J2-4, Gateway Service Area, M1",
+        "img": "https://lh3.googleusercontent.com/p/AF1QipMSTYEXi_LWDRYE7Jy4pDqKKrTRps_8a9_eGapp=w287-h192-n-k-no-v1-rj",
+        "name": "Ramada London North M1",
+        "location": "London",
+        "rent": "4,732"
+    },
+    {
+        "id": 32,
+        "address": "Phillips House, 6 Lansdowne Rd",
+        "img": "https://lh3.googleusercontent.com/p/AF1QipP4-VNVKS9GzoFGTPuKTramK5aUZyjARdHnPfOO=w287-h192-n-k-no-v1-rj",
+        "name": "Premier Inn London Croydon Town Centre hotel",
+        "location": "London",
+        "rent": "5,767"
+    },
+    {
+        "id": 33,
+        "address": "1 Wembley Park Blvd, London",
+        "img": "https://lh3.googleusercontent.com/gps-proxy/AFm_dcQ4rl18fKVvTMr7HGkN0olIlA6C_ns1ZLZOVmw_dnF0evpoB66kVEc3K_HZJU7Rk7TxXc9vQOxVFdh-zEQKO5jNnMwdcYAktwFHi8mfkk8jqUru1foTxTqohzy3xhzWPH0M1u7nugOuohD9E9_XVk1Quw7Yw5l72txtsgQBcnBzCvlpoAJCbh-QOw=w287-h192-n-k-no-v1-rj",
+        "name": "Premier Inn London Wembley Stadium hotel",
+        "location": "London",
+        "rent": "5,343"
+    },
+    {
+        "id": 34,
+        "address": "7 Pepys St, London EC3N 4AF",
+        "img": "https://lh3.googleusercontent.com/p/AF1QipP-ozxubEXgPV6igpXA5Z3nj_xVTJeY_y1jxrd2=w287-h192-n-k-no-v1-rj",
+        "name": "DoubleTree by Hilton London - Tower of London",
+        "location": "London",
+        "rent": "16,223"
+    },
+    {
+        "id": 35,
+        "address": "9, International Square,",
+        "img": "https://lh3.googleusercontent.com/p/AF1QipMV8BIPaShhLoKWfJhG6AGWb8HKF-O6X4MXw1mV=w287-h192-n-k-no-v1-rj",
+        "name": "Premier Inn London Stratford hotel",
+        "location": "London",
+        "rent": "6,604"
+    },
+    {
+        "id": 36,
+        "address": "Burnt Oak Broadway, Edgware HA8 5AQ",
+        "img": "https://lh3.googleusercontent.com/p/AF1QipMj1qNOPIXLAit7jcjd4k_Z_LHiKGj-klffLU0g=w287-h192-n-k-no-v1-rj",
+        "name": "Premier Inn London Edgware hotel",
+        "location": "London",
+        "rent": "5,467"
+    }
+]

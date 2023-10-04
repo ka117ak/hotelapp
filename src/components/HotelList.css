@@ -1,0 +1,166 @@
+.body {
+    background-color: rgb(238, 248, 253);
+    padding-left: 320px;
+    padding-right: 320px;
+    margin-top: 0px;
+}
+
+body h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+    font-weight: bold;
+
+}
+
+.city-tabs {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.city-tabs button {
+    background-color: lightsteelblue;
+    border: 1px solid #ccc;
+    border-radius: 75px 75px;
+    padding: 8px 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.city-tabs button.active {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.property-card-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.property-card {
+    width: 350px;
+    border: 1px solid #ccc;
+    background-color: white;
+    border-radius: 10px 10px;
+    padding: 3px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease;
+    padding-bottom: 40px;
+}
+
+.property-card:hover {
+    transform: translateY(-5px);
+}
+
+.property-card a {
+    text-decoration: none;
+    margin-right: 25px;
+    padding: 12px;
+    color: #007bff;
+    font-size: 400;
+    font-weight: bold;
+    border: 1px solid #007bff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 75px 75px;
+}
+
+.property-card h3 {
+    margin: 5px;
+    margin-top: 5px;
+    margin-left: 25px;
+    margin-right: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkslategray;
+    margin-right: 25px;
+}
+
+.property-card small {
+    margin: 5px;
+    margin-left: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkslategray;
+}
+
+.property-card p {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.image {
+    width: 300px;
+    border-radius: 10px 10px;
+}
+
+.location {
+    color: goldenrod;
+    margin-left: 3px;
+}
+
+.logo {
+    margin-top: 10px;
+    margin-left: 25px;
+    align-self: center;
+    display: flex;
+    color: darkslategray;
+}
+
+.sub {
+    margin-left: 18px;
+    margin-right: 18px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: column;
+    font-size: small;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.left {
+    display: flex;
+    margin-right: 60px;
+    font-size: small;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.display {
+    padding-top: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.price {
+    color: #007bff;
+    font-size: large;
+    font-weight: bold;
+}
+
+.priceOne {
+    margin-left: 25px;
+}
+
+.showMore {
+    margin-top: 60px;
+    margin: 100px;
+    color: black;
+    border-radius: 75px 75px;
+    padding: 8px 16px;
+    cursor: pointer;
+    margin-left: 45%;
+    background-color: lightsteelblue;
+    border: 1px solid #ccc;
+}
+
+.showMore:hover {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.text {
+    margin-left: 35%;
+    margin-bottom: 40px;
+    margin-top: 0px;
+    padding-top: 50px;
+}
